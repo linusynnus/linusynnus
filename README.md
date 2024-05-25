@@ -1,7 +1,7 @@
 ## Kon'nichiwa! I'm Sai Sunil Gottipalli<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
- ### 💬 Currently doing my B-tech in **Computer Science** 💻 from **Baba Institue of Technology and Sciences**. Enthusiast, Fun Loving and Vivid learner, Trying to explore new things and develop myself each day. Looking forward to rectify all the error of my life. I make my own rules and follow them.  
+ ### 💬 Currently I am working as a working professional in **Infosys Limited** as **System Engineer** and I completed my B-tech in **Computer Science** 💻 from **Baba Institue of Technology and Sciences**. Enthusiast, Fun Loving and Vivid learner, Trying to explore new things and develop myself each day. Looking forward to rectify all the error of my life. I make my own rules and follow them.  
 
 
 - 🔭 I'm highly interested in **Python and Web Development**
